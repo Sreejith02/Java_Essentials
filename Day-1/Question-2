@@ -1,0 +1,49 @@
+LetsUpgrade | Java Essentials.
+
+Day-1_Assignment
+
+Question-1
+
+Mention the difference between interpreter and compiler.
+
+
+
+
+Interpreter
+
+
+1) It read the program line by line.
+
+2) It translates only one line of program at a time into machine code.
+
+3) It produces intermediate code after translation.
+
+4) It takes less amount of time to analyze the source code.
+
+5) It is slower.
+
+6) It requires less memory space.
+
+7) It is good for beginners.
+
+8) Programming language like Python, Ruby use interpreter.
+
+Compiler
+
+
+1) It read the whole program at a time.
+
+2) It translates the whole program at a time into machine code.
+
+3) It produces machine code which is directly understood by computer.
+
+4) It takes large amount of time to analyze the source code.
+
+5) It is faster.
+
+6) It requires more memory space.
+
+7) It is good for professionals.
+
+8) Programming language like C, C++ use compiler.
+
