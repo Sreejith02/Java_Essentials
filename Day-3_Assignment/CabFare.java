@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class RideCab {
+public class CabFare {
 
     public static void main(String[] args) {
 
